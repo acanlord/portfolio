@@ -1,0 +1,31 @@
+
+
+            html,body {
+                /* background-color: #ffeead; */
+                background-image: url("./ripples.png");
+                /* background-repeat: repeat-x; */
+                /* background-color: #add0ff; */
+            }
+            h1{
+                font-family: 'PT Sans', sans-serif;
+                text-align: center;
+            }
+            h2{
+			  font-family: 'PT Sans', sans-serif;
+			}
+  			.posts > div {
+                /* height: 100px; */
+                margin-top:30px;
+				padding: 10px;
+                border-radius: 4px;
+                background: rgb(196, 203, 227);
+            }
+		  	.img h2 {
+			  	border-bottom: 2px solid white;
+		  	}
+			  .my-custom-nav {
+				  margin-top: 20px;
+			}
+            .col-sm-3 > div{
+                background:#ddd;
+            }   
