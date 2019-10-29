@@ -1,15 +1,15 @@
 
 
-            html,body {
+            body {
                 background-image: url("./ripples.png");
             }
+            h1,h2,h3,h4,h5,h6 {
+                font-family: "Georgia";
+            }
             h1{
-                font-family: 'PT Sans', sans-serif;
+                font-family: 'PT Sans', sans-serif, serif;
                 text-align: center;
             }
-            h2{
-			  font-family: 'PT Sans', sans-serif;
-			}
   			.posts > div {
                 margin-top:30px;
 				padding: 10px;
